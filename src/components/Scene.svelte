@@ -30,7 +30,7 @@
 </PerspectiveCamera>
 
 <ImagesInstancedMesh
-  atlasPath={"atlas.png"}
+  atlasPath={"stitched.jpg"}
   {numAtlasColumns}
   {positions}
   doubleSide
